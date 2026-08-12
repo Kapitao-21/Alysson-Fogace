@@ -67,10 +67,11 @@ Sou apaixonado por tecnologia e estou em constante aprendizado para me tornar um
 
 ### 📊 Nossas Estatísticas e Interações de Código
 
-> Baseado em nossos códigos, dúvidas de compilação e estruturas que construímos juntos:
+> Baseado em tudo que fiz e construi:
 
 ```text
 C / C++  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬  45%
 SQL      ▬▬▬▬▬▬▬▬▬▬          25%
 HTML     ▬▬▬▬▬▬▬▬            20%
 CSS      ▬▬▬▬                10%
+Java     ▬▬▬▬                10%
