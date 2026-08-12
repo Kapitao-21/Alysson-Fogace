@@ -6,7 +6,7 @@
 
 # 👨🏻‍💻 Alysson Fogace
 
-**`Desenvolvedor FullStack | Estudante de ADS`**
+**`Desenvolvedor | Analista de Dados | Estudante de ADS`**
 
 <p align="center">
     <a href="https://github.com/Kapitao-21" target="_blank">
