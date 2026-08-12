@@ -1,19 +1,12 @@
 # 👋 Olá, Mundo! Sou Alysson Fogace
 
-<!-- Efeito do cursor do mouse em formato de espada (ponteiro personalizado) -->
-<style>
-  body, * {
-    cursor: url('https://cur.cursors-4u.net/games/gam-10/gam976.cur'), auto !important;
-  }
-</style>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABS-freitas/ABS-freitas/main/assets/developer-activity.gif" alt="Desenvolvedor animado" width="400px" />
 </p>
 
 # 👨🏻‍💻 Alysson Fogace
 
-**`Desenvolvedor |Analista de Dados | Estudante de ADS`**
+**`Desenvolvedor | Analista de Dados | Estudante de ADS`**
 
 <p align="center">
     <a href="https://github.com/Kapitao-21" target="_blank">
@@ -67,7 +60,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizado para me tornar um
 
 ### 📊 Nossas Estatísticas e Interações de Código
 
-> Baseado em tudo que fiz e construi:
+> Baseado em nossos códigos, dúvidas de compilação e estruturas que construímos juntos:
 
 ```text
 C / C++  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬  45%
